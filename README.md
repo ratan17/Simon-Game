@@ -1,5 +1,5 @@
 # Simon-Game
-Simon Game using Vanilla JS
+Simon Game using Vanilla JS ( works only on PCs, mobile version come soon )
 
 Rules to play the game :
 
